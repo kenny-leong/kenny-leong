@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Welcome to my GitHub, I'm Kenny !!
+# 👋 Welcome to my GitHub !!
 
-🎓 Full-stack software engineer (App Academy & New York University) 
+🎓 I'm Kenny, a Full-stack Software Engineer (App Academy & New York University) 
 
 🔎 I am looking for a software engineering team that is enthusiastic and will provide me with challenging projects that I can learn and grow from.
 
