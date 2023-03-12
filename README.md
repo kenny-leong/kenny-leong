@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--🥸 Click to view my <a href="https://kennyleong.github.io"> Webpage</a> -->
 
-💬 Click to view my <a href="https://www.linkedin.com/in/kenny-leong"> LinkedIn</a>
+💬 Click to view my <a href="https://www.linkedin.com/in/kenny-leong97"> LinkedIn</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kenny-leong&theme=dark)](https://git.io/streak-stats)
 
