@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Welcome to my GitHub !!
+# 👋 Welcome to my GitHub !
 
 🎓 I'm Kenny, a Full-stack Software Engineer (App Academy & New York University) 
 
