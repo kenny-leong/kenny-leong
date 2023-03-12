@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <!--🥸 Click to view my <a href="https://kennyleong.github.io"> Webpage</a> -->
 
 💬 Lets Connect! Check out my LinkedIn <a href="https://www.linkedin.com/in/kenny-leong97"> LinkedIn</a>
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kenny-leong&theme=dark)](https://git.io/streak-stats)
