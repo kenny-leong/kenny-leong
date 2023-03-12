@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 
 💬 Lets Connect! Check out my   <a href="https://www.linkedin.com/in/kenny-leong97">![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=black)</a><br />
 
-<div style="text-align: center;">
-    <p>Let's Connect! Check out my <a href="https://www.linkedin.com/in/kenny-leong97">LinkedIn</a></p>
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=black" alt="linkedin">
-</div>
+<p style="text-align: center; display: inline-block;">Let's Connect! Check out my <a href="https://www.linkedin.com/in/kenny-leong97">LinkedIn</a></p>
+<img style="display: inline-block;" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=black" alt="linkedin">
+
 
 
 
