@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 🎓 I'm Ken, a Full-stack Software Engineer (App Academy & New York University) 
 
-🔎 I am looking for a software engineering team that is enthusiastic and will provide me with challenging projects that I can grow from.
+🔎 I am looking for a software engineering team that is enthusiastic and will provide me with challenging projects that I can grow from
 
-⚡ My professional background includes working as a web developer and founding a successful tech marketing company.
+⚡ My professional background includes working as a web developer and founding a successful tech marketing company
 
 🫡 Effective leadership and technical skills with proven full-stack software engineer skills and project management skills
 
