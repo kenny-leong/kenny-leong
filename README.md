@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Welcome to my GitHub !
 
-🎓 I'm Ken, a Fullstack Software Engineer (App Academy & New York University) 
+🎓 I'm Ken, a Fullstack Software Engineer (New York University & Stanford University & App Academy) 
 
 🔎 I am looking for a software engineering team that is enthusiastic and will provide me with challenging projects that I can grow from
 
