@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 📫 Reach me via email: **kennyleong2@gmail.com**
 
-💼 Take a look at my <a href="https://kenny-leong.github.io/">portfolio</a>!
+💼 Take a look at my <a href="https://kenny-leong.github.io/">portfolio</a> !
 
 <!--🥸 Click to view my <a href="https://kennyleong.github.io"> Webpage</a> -->
 
