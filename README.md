@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 💬 Lets Connect! Check out my <a href="https://www.linkedin.com/in/kenny-leong97">![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=black)</a><br /><br />
 
+Feel free to take a look at some code samples by scrolling below and clicking any of the pinned projects! 
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kenny-leong&theme=dark)](https://git.io/streak-stats)
