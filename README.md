@@ -37,7 +37,6 @@ Feel free to take a look at some code samples by scrolling below and clicking an
 
  ### Connect With Me!
  
- <a href="https://www.linkedin.com/in/kenny-leong97">![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=black)</a>
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kennyleong2@gmail.com) [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kenny-leong97/) [<img align="left" alt="angel-list" src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" />](https://wellfound.com/u/kenny-leong-4)
 
 
