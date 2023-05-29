@@ -23,23 +23,22 @@ Here are some ideas to get you started:
  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=He+wrote+too+much+spaghetti+code...)](https://git.io/typing-svg)
 
-🎓 I'm Ken, a Fullstack Software Engineer (New York University & App Academy) 
+### A little about me: 
 
-🔎 I am looking for a software engineering team that is enthusiastic and will provide me with challenging projects that I can grow from
+🎓 I'm Kenny, a Fullstack Software Engineer (New York University & App Academy) 
 
-⚡ My professional background includes working as a web developer and founding a successful tech marketing company
-
-🫡 Effective leadership and technical skills with proven full-stack software engineer skills and project management skills
+⚡ My professional background includes being the founder of a digital marketing startup and working as a freelance software engineer
 
 📫 Reach me via email: **kennyleong2@gmail.com**
 
 💼 Take a look at my <a href="https://kenny-leong.github.io/">portfolio</a> !
 
-💬 Lets Connect! Check out my <a href="https://www.linkedin.com/in/kenny-leong97">![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=black)</a>
-
 Feel free to take a look at some code samples by scrolling below and clicking any of the pinned projects! <br /><br />
 
-
+ ### Connect With Me!
+ 
+ <a href="https://www.linkedin.com/in/kenny-leong97">![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=black)</a>
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kennyleong2@gmail.com) [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kenny-leong97/) [<img align="left" alt="angel-list" src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" />](https://wellfound.com/u/kenny-leong-4)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kenny-leong&theme=dark)](https://git.io/streak-stats)
