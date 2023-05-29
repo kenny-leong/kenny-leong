@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 --> 
 
 
-# 👋 Hi, welcome to my GitHub!
+# Kenny Leong
 
 ![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/34351210/205992742-fff3ea85-e639-4abd-bf2e-90220aba2451.gif)
+
+<p>Why did the chef fail his programming course?</p>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=He+wrote+too+much+spaghetti+code...)](https://git.io/typing-svg)
 
 🎓 I'm Ken, a Fullstack Software Engineer (New York University & App Academy) 
 
