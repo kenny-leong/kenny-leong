@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=He+wrote+too+much+spaghetti+code...)](https://git.io/typing-svg)
 
-### A little about me: 
+### About Me: 
 
 🎓 I'm Kenny, a Fullstack Software Engineer (New York University & App Academy) 
 
