@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 --> 
 
 
-# 👋 Welcome to my GitHub !
+# 👋 Hi, welcome to my GitHub!
+
+![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/34351210/205992742-fff3ea85-e639-4abd-bf2e-90220aba2451.gif)
 
 🎓 I'm Ken, a Fullstack Software Engineer (New York University & App Academy) 
 
