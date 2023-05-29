@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ⚡ My professional background includes being the founder of a digital marketing startup and working as a freelance software engineer
 
-🫧 Feel free to take a look at some code samples by scrolling below and clicking any of the pinned projects! <br><br />
+🫧 Feel free to take a look at some code samples by scrolling below and clicking any of the pinned projects!
 
 💼 Take a look at my <a href="https://kenny-leong.github.io/">portfolio site</a> !
 
