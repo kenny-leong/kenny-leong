@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 
 ⚡ My professional background includes being the founder of a digital marketing startup and working as a freelance software engineer
 
-📫 Reach me via email: **kennyleong2@gmail.com**
+💼 Take a look at my <a href="https://kenny-leong.github.io/">portfolio site</a> !
 
-💼 Take a look at my <a href="https://kenny-leong.github.io/">portfolio</a> !
-
-Feel free to take a look at some code samples by scrolling below and clicking any of the pinned projects! <br />
+Feel free to take a look at some code samples by scrolling below and clicking any of the pinned projects! <br><br />
 
  ### Connect With Me!
  
