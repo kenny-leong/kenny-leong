@@ -48,9 +48,10 @@ Here are some ideas to get you started:
 
 <details>
 <summary><span><img src="https://user-images.githubusercontent.com/34351210/205989480-e7782fda-ff52-411a-9128-45d32d04fd87.svg" width="16px" height="16px"/></span> GitHub Stats </summary>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kenny-leong&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny-leong&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kenny-leong&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kenny-leong&theme=dark)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny-leong&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kenny-leong&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 </details>
 
 
